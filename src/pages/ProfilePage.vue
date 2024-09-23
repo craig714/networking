@@ -51,7 +51,7 @@ async function getProfileByID() {
     </section>
     <div class="row">
       <div class="col-12">
-        <div>
+        <div class="fs-2">
           <p>{{ profile.bio }}</p>
         </div>
 
